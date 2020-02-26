@@ -9,9 +9,32 @@
 - [x] Apollo Setup
 - [x] Connect Local State
 - [x] Typescript -> React Components
-- [ ] Styled Components with Typescript
-- [ ] Global Styles Setup
-- [ ] Plan the Routes
+- [x] Styled Components with Typescript
+- [x] Global Styles Setup
+
+---
+
+## Plan the Routes
+
+### Logout
+
+    - [ ] Home
+    - [ ] Phone Login
+    - [ ] Verify Phone Number
+    - [ ] Social Login
+
+### LogIn
+
+    - [ ] Home
+    - [ ] Ride
+    - [ ] Edit Account
+    - [ ] Settings
+    - [ ] Saved Places
+    - [ ] Add Place
+    - [ ] Challenge: Ride History
+
+---
+
 - [ ] Router and Routes
 - [ ] Outhome Component
 - [ ] Login Component with React Helmet

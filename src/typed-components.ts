@@ -5,6 +5,7 @@ interface IThemeInterface {
   primaryColor: string;
   primaryColorInverted: string;
   blueColor: string;
+  greyColor: string;
 }
 
 const {

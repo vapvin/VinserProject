@@ -80,7 +80,7 @@ const OutHomePresenter: React.SFC<IProps> = () => (
     <Footer>
       <Link to={'/phone-login'}>
         <PhoneLogin>
-          <Subtitle>Get moving with Nuber</Subtitle>
+          <Subtitle>Get moving with Vinser</Subtitle>
           <FakeInput>
             🇰🇷 +82 <Grey>Enter your mobile number</Grey>
           </FakeInput>

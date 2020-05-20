@@ -12,7 +12,7 @@ class PhoneLoginContainer extends React.Component<RouteComponentProps<any>, ISta
 
     public state = {
         countryCode:"+82",
-        phoneNumber: "010-1234-5678"
+        phoneNumber: ""
     }
     public render(){
         const {countryCode, phoneNumber} = this.state;
